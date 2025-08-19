@@ -58,7 +58,8 @@ html {
 }
 
 .title {
-	color: var(--dark__color);
+	color: purple;
+	// color: var(--dark__color);
 	text-align: center;
 	font-size: 40px;
 	font-weight: 400;
